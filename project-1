@@ -1,0 +1,13 @@
+#1. Create a greeting for your program.
+print("Welecome the first pyhton project")
+#2. Ask the user for the city that they grew up in.
+print("which of the city you grow up in") 
+city = input(" city grew up in is \n")
+#3. Ask the user for the name of a pet.
+print("what is your fav pet in the country ") 
+pet = input(" fave pet is \n")
+#4. Combine the name of their city and pet and show them their band name.
+print(city +" "+ pet +"\n")
+#5. Make sure the input cursor shows on a new line, see the example at:
+
+#   https://replit.com/@appbrewery/band-name-generator-end
